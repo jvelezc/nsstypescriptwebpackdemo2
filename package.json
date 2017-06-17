@@ -1,0 +1,16 @@
+{
+  "name": "expiriment",
+  "version": "1.0.0",
+  "scripts": {
+      "start": "webpack-dev-server --watch --hot --inline"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^2.1.0",
+    "tslib": "^1.7.1",
+    "typescript": "^2.3.4",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
